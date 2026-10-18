@@ -61,13 +61,13 @@ I bridge business logic and technical execution, turning complex, raw retail and
 
 ## 📈 GitHub Metrics
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=bshni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bshni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
     </td>
   </tr>
 </table>
